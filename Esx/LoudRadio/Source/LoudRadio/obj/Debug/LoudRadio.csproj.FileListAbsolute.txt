@@ -1,0 +1,7 @@
+F:\Programming\FSRP\LoudRadio\LoudRadio\obj\Debug\LoudRadio.csprojAssemblyReference.cache
+F:\Programming\FSRP\LoudRadio\LoudRadio\obj\Debug\LoudRadio.csproj.CoreCompileInputs.cache
+F:\Programming\FSRP\LoudRadio\LoudRadio\obj\Debug\LoudRadio.csproj.CopyComplete
+F:\Programming\FSRP\LoudRadio\build\loud-radio.net.dll
+F:\Programming\FSRP\LoudRadio\build\loud-radio.net.pdb
+F:\Programming\FSRP\LoudRadio\LoudRadio\obj\Debug\loud-radio.net.dll
+F:\Programming\FSRP\LoudRadio\LoudRadio\obj\Debug\loud-radio.net.pdb
